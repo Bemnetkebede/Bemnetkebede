@@ -1,4 +1,4 @@
-## Hi there I am Bemnet Kebede👋
+## Hi there I'm Bemnet Kebede👋
 - 🌱 I’m currently learning BSc in Software Engineering
 - 👯 I’m looking to collaborate on any kind of project that give me part oN front end web development
 - 📫 How to reach me bemnet026@gmail.com
