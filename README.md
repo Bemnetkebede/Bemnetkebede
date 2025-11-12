@@ -20,7 +20,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
----
+
 
 <h3>🖥️ Backend</h3>
 
@@ -28,7 +28,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
+
 
 <h3>⚙️ Tools & Other Skills</h3>
 
@@ -62,3 +62,35 @@
 ---
 
 ⭐️ *"Code. Learn. Create. Repeat."*
+
+---
+## 📂 Popular Repositories
+
+<div align="center">
+
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Bemnetkebede&repo=your-repo-1&theme=tokyonight)](https://github.com/Bemnetkebede/your-repo-1)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Bemnetkebede&repo=your-repo-2&theme=tokyonight)](https://github.com/Bemnetkebede/your-repo-2)
+[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=Bemnetkebede&repo=your-repo-3&theme=tokyonight)](https://github.com/Bemnetkebede/your-repo-3)
+[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=Bemnetkebede&repo=your-repo-4&theme=tokyonight)](https://github.com/Bemnetkebede/your-repo-4)
+
+</div>
+---
+
+## 🗓️ Contribution Graph
+
+<div align="center">
+
+![Bemnet’s GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bemnetkebede&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+ ---
+ ## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+![Bemnet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bemnetkebede&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bemnetkebede&layout=compact&theme=tokyonight)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Bemnetkebede&theme=tokyonight)
+
+</div>
+
