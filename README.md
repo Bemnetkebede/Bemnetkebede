@@ -1,7 +1,7 @@
 # Hi 👋, I'm **Bemnet Kebede**
 
-              💻 **Software Engineer** <br> 
-              ⚡ Curious about learning new technologies <br> 
+              💻 **Software Engineer**<br> 
+              ⚡ Curious about learning new technologies
               🚀 Passionate about exploring innovative ideas and building impactful solutions  
 
 ---
