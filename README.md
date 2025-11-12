@@ -64,15 +64,5 @@
 ⭐️ *"Code. Learn. Create. Repeat."*
 
 ---
-## 📂 Popular Repositories
-
-<div align="center">
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Bemnetkebede&repo=your-repo-1&theme=tokyonight)](https://github.com/Bemnetkebede/your-repo-1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Bemnetkebede&repo=your-repo-2&theme=tokyonight)](https://github.com/Bemnetkebede/your-repo-2)
-[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=Bemnetkebede&repo=your-repo-3&theme=tokyonight)](https://github.com/Bemnetkebede/your-repo-3)
-[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=Bemnetkebede&repo=your-repo-4&theme=tokyonight)](https://github.com/Bemnetkebede/your-repo-4)
-
-</div>
 
 
