@@ -74,23 +74,5 @@
 [![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=Bemnetkebede&repo=your-repo-4&theme=tokyonight)](https://github.com/Bemnetkebede/your-repo-4)
 
 </div>
----
 
-## 🗓️ Contribution Graph
-
-<div align="center">
-
-![Bemnet’s GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bemnetkebede&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
- ---
- ## 📊 GitHub Stats & Activity
-
-<div align="center">
-
-![Bemnet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bemnetkebede&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bemnetkebede&layout=compact&theme=tokyonight)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Bemnetkebede&theme=tokyonight)
-
-</div>
 
