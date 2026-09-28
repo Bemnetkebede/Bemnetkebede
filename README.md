@@ -73,42 +73,9 @@ Engineered a centralized transit operations platform featuring automated route c
 
 </td>
 </tr>
-</table>
 
-<!-- Agentic Document Processor -->
-### 📑 Agentic Document Processor
 
-<table>
-<tr>
-<td width="65%">
 
-#### 📄 Overview
-Architected a containerized, asynchronous document extraction and vector search service designed for distributed document analysis and agent workflows.
-
-#### 📊 Impact
-- ✅ **Asynchronous background job worker** powered by Redis queues
-- ✅ **High-speed vector retrieval** backed by ChromaDB and MinIO storage
-- ✅ **Zero-downtime execution** using isolated Docker containers
-
-#### 🛠 Tech Stack
-`Node.js` `TypeScript` `Docker` `ChromaDB` `MinIO` `Redis` `Vector Search`
-
-</td>
-<td width="35%" align="center">
-
-![Category](https://img.shields.io/badge/AI_INFRA-DOCUMENT_PROCESSING-d63031?style=flat-square)
-
-<br/>
-
-![Execution](https://img.shields.io/badge/PIPELINE-ASYNC_WORKERS-e17055?style=flat-square)
-
-<br/>
-
-![Storage](https://img.shields.io/badge/STORAGE-CHROMADB_+_MINIO-00b894?style=flat-square)
-
-</td>
-</tr>
-</table>
 
 <!-- SaaS Leave Management System -->
 ### 📅 Policy-Driven SaaS Leave Management
