@@ -300,14 +300,6 @@ Developed a full-stack personal tracking dashboard providing calorie counting, c
 
 ---
 
-## ⚡ Fun Facts
-
-- 🧠 Solved **200+ data structures and algorithmic challenges** (dynamic programming & sliding window are my playground).
-- ☕ I turn complex distributed systems and clean Next.js architectures into simple, responsive user experiences.
-- 🚀 When I'm not writing code, I'm exploring bleeding-edge AI developer tooling, experimenting with real-time WebSockets, or mentoring peers in web development.
-
----
-
 ## 📊 GitHub Stats
 <div align="center">
 
