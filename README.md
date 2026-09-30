@@ -269,6 +269,11 @@ Developed a full-stack personal tracking dashboard providing calorie counting, c
 
 ## 📊 GitHub Stats
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=Bemnetkebede&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bemnetkebede&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</div>
+<div align="center">
 
 ![Bemnet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bemnetkebede&show_icons=true&theme=tokyonight)
 
