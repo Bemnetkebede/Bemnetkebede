@@ -273,6 +273,11 @@ Developed a full-stack personal tracking dashboard providing calorie counting, c
 ![Bemnet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bemnetkebede&show_icons=true&theme=tokyonight)
 
 </div>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Bemnetkebede&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="Bemnet's GitHub Stats" />
+
+</div>
 
 ---
 
