@@ -273,17 +273,6 @@ Developed a full-stack personal tracking dashboard providing calorie counting, c
   <br/><br/>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bemnetkebede&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </div>
-<div align="center">
-
-![Bemnet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bemnetkebede&show_icons=true&theme=tokyonight)
-
-</div>
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Bemnetkebede&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="Bemnet's GitHub Stats" />
-
-</div>
-
 ---
 
 ## 📫 Connect with Me
